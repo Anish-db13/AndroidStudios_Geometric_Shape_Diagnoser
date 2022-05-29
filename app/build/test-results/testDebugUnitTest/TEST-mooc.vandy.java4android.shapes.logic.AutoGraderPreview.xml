@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="mooc.vandy.java4android.shapes.logic.AutoGraderPreview" tests="1" skipped="0" failures="0" errors="0" timestamp="2022-05-29T12:54:46" hostname="LAPTOP-7EO4TG1C" time="0.031">
+  <properties/>
+  <testcase name="graderPreview" classname="mooc.vandy.java4android.shapes.logic.AutoGraderPreview" time="0.031"/>
+  <system-out><![CDATA[
+
+Your assignment HAS NOT BEEN SUBMITTED. The following test results only
+estimate your grade.
+
+
+Your estimated score is: 90.0/100
+(This is not your actual grade for this assignment, just an estimate. Your
+official grade will be calculated after you submit your submission.zip file to
+Coursera.
+
+
+------------------------------Assignment Evaluation-----------------------------
+--------Your solution received points for the following grading rubrics:--------
+
+
+testRectanglePerimeter
+Rubric Score: 10.0/10.0
+Goal: The goal of this evaluation is to calculate the RectanglePerimeter
+Reference: This Test fails when: The Rectangle perimeter is miscalculated
+
+testCircleCircumference
+Rubric Score: 10.0/10.0
+Goal: The goal of this evaluation is to calculate the CircleCircumference
+Reference: This Test fails when: The Circle circumference is miscalculated
+
+testSphereSurfaceArea
+Rubric Score: 10.0/10.0
+Goal: The goal of this evaluation is to calculate the SphereSurfaceArea
+Reference: This Test fails when: The Sphere surface area is miscalculated
+
+testTriangleArea
+Rubric Score: 10.0/10.0
+Goal: The goal of this evaluation is to calculate the TriangleArea
+Reference: This Test fails when: The Triangle area is miscalculated
+
+testTrianglePerimeter
+Rubric Score: 10.0/10.0
+Goal: The goal of this evaluation is to calculate the TrianglePerimeter
+Reference: This Test fails when: The Triangle perimeter is miscalculated
+
+testBoxVolume
+Rubric Score: 10.0/10.0
+Goal: The goal of this evaluation is to calculate the BoxVolume
+Reference: This Test fails when: The Box volume is miscalculated
+
+testRectangleArea
+Rubric Score: 10.0/10.0
+Goal: The goal of this evaluation is to calculate the RectangleArea
+Reference: This Test fails when: The Rectangle area is miscalculated
+
+testCircleArea
+Rubric Score: 10.0/10.0
+Goal: The goal of this evaluation is to calculate the CircleArea
+Reference: This Test fails when: The Circle area is miscalculated
+
+testBoxSurfaceArea
+Rubric Score: 10.0/10.0
+Goal: The goal of this evaluation is to calculate the BoxSurfaceArea
+Reference: This Test fails when: The Box surface area is miscalculated
+
+----------Your solution missed points on the following grading rubrics:---------
+
+
+testSphereVolume
+Rubric Score: 0.0/10.0
+Goal: The goal of this evaluation is to calculate the SphereVolume
+Reference: This Test fails when: The Sphere volume is miscalculated
+
+
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

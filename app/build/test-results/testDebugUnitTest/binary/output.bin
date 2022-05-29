@@ -1,0 +1,71 @@
+
+
+IYour assignment HAS NOT BEEN SUBMITTED. The following test results only
+estimate your grade.
+
+
+#Your estimated score is: 90.0/100
+L(This is not your actual grade for this assignment, just an estimate. Your
+Pofficial grade will be calculated after you submit your submission.zip file to
+
+Coursera.
+
+
+Q------------------------------Assignment Evaluation-----------------------------
+Q--------Your solution received points for the following grading rubrics:--------
+
+
+testRectanglePerimeter
+Rubric Score: 10.0/10.0
+IGoal: The goal of this evaluation is to calculate the RectanglePerimeter
+JReference: This Test fails when: The Rectangle perimeter is miscalculated
+
+testCircleCircumference
+Rubric Score: 10.0/10.0
+JGoal: The goal of this evaluation is to calculate the CircleCircumference
+KReference: This Test fails when: The Circle circumference is miscalculated
+
+testSphereSurfaceArea
+Rubric Score: 10.0/10.0
+HGoal: The goal of this evaluation is to calculate the SphereSurfaceArea
+JReference: This Test fails when: The Sphere surface area is miscalculated
+
+testTriangleArea
+Rubric Score: 10.0/10.0
+CGoal: The goal of this evaluation is to calculate the TriangleArea
+DReference: This Test fails when: The Triangle area is miscalculated
+
+testTrianglePerimeter
+Rubric Score: 10.0/10.0
+HGoal: The goal of this evaluation is to calculate the TrianglePerimeter
+IReference: This Test fails when: The Triangle perimeter is miscalculated
+
+testBoxVolume
+Rubric Score: 10.0/10.0
+@Goal: The goal of this evaluation is to calculate the BoxVolume
+AReference: This Test fails when: The Box volume is miscalculated
+
+testRectangleArea
+Rubric Score: 10.0/10.0
+DGoal: The goal of this evaluation is to calculate the RectangleArea
+EReference: This Test fails when: The Rectangle area is miscalculated
+
+testCircleArea
+Rubric Score: 10.0/10.0
+AGoal: The goal of this evaluation is to calculate the CircleArea
+BReference: This Test fails when: The Circle area is miscalculated
+
+testBoxSurfaceArea
+Rubric Score: 10.0/10.0
+EGoal: The goal of this evaluation is to calculate the BoxSurfaceArea
+GReference: This Test fails when: The Box surface area is miscalculated
+
+Q----------Your solution missed points on the following grading rubrics:---------
+
+
+testSphereVolume
+Rubric Score: 0.0/10.0
+CGoal: The goal of this evaluation is to calculate the SphereVolume
+DReference: This Test fails when: The Sphere volume is miscalculated
+
+
